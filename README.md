@@ -64,7 +64,7 @@ workout-tracker/
 │   ├── models/      # Mongoose models
 │   ├── routes/      # API route handlers
 │   └── server.js    # Entry point for backend
-├── client/          # React frontend
+├── frontend/          # React frontend
 │   ├── src/         # React components & pages
 │   ├── public/      # Static assets
 │   └── package.json # Frontend dependencies
